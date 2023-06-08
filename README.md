@@ -4,6 +4,7 @@ Harvester
 [![Go Report Card](https://goreportcard.com/badge/github.com/harvester/harvester)](https://goreportcard.com/report/github.com/harvester/harvester)
 [![Releases](https://img.shields.io/github/release/harvester/harvester/all.svg)](https://github.com/harvester/harvester/releases)
 [![Slack](https://img.shields.io/badge/slack-join-brightgreen)](https://slack.rancher.io/)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fmarkhillgit%2Fharvester.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fmarkhillgit%2Fharvester?ref=badge_shield)
 
 Harvester is an open source [hyper-converged infrastructure](https://en.wikipedia.org/wiki/Hyper-converged_infrastructure) (HCI) software built on Kubernetes. It is an open alternative to using a proprietary HCI stack that incorporates the design and ethos of [Cloud Native Computing](https://en.wikipedia.org/wiki/Cloud_native_computing). 
 
@@ -122,3 +123,6 @@ distributed under the License is distributed on an "AS IS" BASIS,
 WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 See the License for the specific language governing permissions and
 limitations under the License.
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fmarkhillgit%2Fharvester.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fmarkhillgit%2Fharvester?ref=badge_large)
